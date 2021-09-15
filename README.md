@@ -12,7 +12,7 @@
 </div>
   
   ##
- <h3 align="center">  some important technologies that I learned and use in my daily life </h3>
+ <h3 align="center" font_style="bold">Some important technologies that I learned and use in my daily life</h3>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
