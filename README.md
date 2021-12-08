@@ -12,6 +12,7 @@
 </div>
   
   ##
+ 
  <h3 align="center" font_style="bold">Some important technologies that I learned and use in my daily life</h3>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
