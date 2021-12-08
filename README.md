@@ -1,4 +1,4 @@
-### Olá! Me chamo Armando e sou estudante de desenvolvimento web fullstack.
+## Olá! Me chamo Armando e sou estudante de desenvolvimento web fullstack.
 
 - 🔭 I’m currently studying on Trybe.
 - 🌱 I’m currently learning Node.js, Express Restful API.
