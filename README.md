@@ -2,7 +2,7 @@
 ## FullStack Developer.
 
 - 🔭 I’m currently learning React Native & Next.js
-
+- ⚛ React & Node Developer
 ##
 
  <div align="center" display="block">
