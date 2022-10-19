@@ -1,7 +1,6 @@
 ## Olá! Me chamo Armando.
-## FullStack Developer.
+## FullStack Developer at Spro it Solutions.
 
-- 🔭 I’m currently learning React Native & Next.js
 - ⚛ React & Node Developer
 ##
 
@@ -27,6 +26,7 @@
   <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
+  <img align="center" alt="Mui" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
 </div>
   
   ##
