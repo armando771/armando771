@@ -2,7 +2,7 @@
 ## FullStack Developer
 
 - ⚛ React & Node Developer
-- 💻 FullStack Developer React.js & React Native & Node.js at Spro it Solutions
+- 💻 FullStack Developer at Spro it Solutions [React.js & React Native & Node.js]
 - 📚 Currently studying nextJS
 ##
 
